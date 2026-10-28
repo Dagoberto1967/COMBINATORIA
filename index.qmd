@@ -1,6 +1,6 @@
 ---
 title: "Combinatoria: teoría, fórmulas y aplicaciones en R"
-subtitle: "Variaciones, permutaciones y combinaciones"
+subtitle: "Variaciones, permutaciones y combinaciones. Simulador"
 author: 
   - name: Dagoberto Salgado Horta
     affiliation: "Universidad del Tolima"
